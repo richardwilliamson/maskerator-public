@@ -9,6 +9,9 @@
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/richardwilliamson/maskerator-public/main/releases/Maskerator%201.1.dmg" length="5640228" type="application/octet-stream" sparkle:edSignature="cJ5K+6vgpsCWGBBguOQO7zN1GuS1r8qfNUMLejGhzIlZ9vKeOgFrrZyrAfGI+6lmSL708BAuYf29/8e/F+UqAw=="/>
+            <description>
+                Fixed various issues with crashing, added more control over displaying points and similar on different outputs.
+            </description>
         </item>
         <item>
             <title>1.0.2</title>
