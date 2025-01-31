@@ -3,6 +3,14 @@
     <channel>
         <title>Maskerator 1.0.2</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Fri, 31 Jan 2025 16:37:09 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/richardwilliamson/maskerator-public/main/releases/Maskerator%201.1.dmg" length="5640228" type="application/octet-stream" sparkle:edSignature="cJ5K+6vgpsCWGBBguOQO7zN1GuS1r8qfNUMLejGhzIlZ9vKeOgFrrZyrAfGI+6lmSL708BAuYf29/8e/F+UqAw=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Sun, 23 Jun 2024 15:16:08 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
