@@ -3,6 +3,18 @@
     <channel>
         <title>Maskerator 1.0.2</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Wed, 19 Feb 2025 03:12:45 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/richardwilliamson/maskerator-public/main/releases/Maskerator%201.2.1.dmg" length="5640937" type="application/octet-stream" sparkle:edSignature="Mj3m+vqxOGsxqstoiEVTYMN1qtTmUOzNKwG/MfP9hCV8Yp8fW18anyYFwVHwDE/6etyn/SLSGUKZjqrWtzKhAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/richardwilliamson/maskerator-public/main/releases/Maskerator4-3.delta" sparkle:deltaFrom="3" length="95858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="g5WhqUPZfWRHfrQADSB2pOHfuT7G+6CWSWZZTurbDsxRTuStspo218cIlHV+u0nNYwqMFdkAl9y5fRi4w06YCQ=="/>
+            </sparkle:deltas>
+            <description>Fixed issue with opening maskerator files made in earlier versions</description>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Fri, 31 Jan 2025 16:37:09 +0000</pubDate>
             <sparkle:version>3</sparkle:version>

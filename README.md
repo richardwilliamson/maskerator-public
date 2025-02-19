@@ -2,7 +2,7 @@
 
 
 
-create-dmg --window-size "512" "330" --app-drop-link "400" "165" "Maskerator 1.2.dmg" Maskerator.app
+create-dmg --window-size "512" "330" --app-drop-link "400" "165" "Maskerator 1.2.1.dmg" "Maskerator.app"
 
 get to the sparkle lib xcode manager
 
@@ -10,5 +10,5 @@ cd /Users/richardwilliamson/Library/Developer/Xcode/DerivedData/Maskerator-fvojz
 
 genrate the appcast
 
-./generate_appcast ~/Dropbox\ \(Personal\)/projects/maskerator-public/releases 
+./generate_appcast ~/Dropbox\ \(Personal\)/projects/maskerator-public/releases/bin 
 
